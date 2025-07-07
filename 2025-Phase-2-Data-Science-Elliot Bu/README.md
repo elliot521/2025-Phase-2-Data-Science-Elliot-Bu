@@ -14,19 +14,15 @@ In Part 1, I conducted exploratory data analysis and preprocessing on a store sa
   - Sales distribution was skewed with negative profits in some entries.
   - Discounts had a moderate negative correlation with profit, while sales and profit showed a weak positive relationship.
 
-🔗 [Notebook: part1-submission_ElliotBu.ipynb](./Part 1/part1-submission_ElliotBu.ipynb)
-
 ---
 
 ## Bonus 📈 Part 1 – Power BI Business Intelligence Dashboard
 
-Part 2 involved designing a Power BI dashboard to communicate business insights effectively:
+Part 1 bonus involved designing a Power BI dashboard to communicate business insights effectively:
 
 - Connected and processed data to create interactive visualizations.
 - Developed dashboards that highlight KPIs such as sales performance, profit by category, and regional performance breakdowns.
 - Ensured the dashboard is clear, interactive, and decision-oriented.
-
-🔗 [Power BI File: Phase2_PowerBi_ElliotBu.pbix](Phase2_PowerBi_ElliotBu.pbix)
 
 ---
 
@@ -45,8 +41,6 @@ In Part 2, I focused on building and evaluating machine learning models to deriv
   - Developed an optimized predictive model with strong generalization performance.
   - Provided interpretations of model outputs to support practical deployment.
 
-🔗 [Notebook: part2_submission_ElliotBu.ipynb](part2_submission_ElliotBu.ipynb)
-
 ---
 
 ## 🤖 Part 3 – Knowledge Distillation for Image Classification
@@ -62,9 +56,6 @@ In Part 3, I implemented **knowledge distillation** to compress deep learning mo
   - Teacher (ResNet34): 94.85% accuracy, 21.8M parameters.
   - Student with KD (ResNet18): 85.76% accuracy, 11.2M parameters.
 - **Impact**: Demonstrated significant model compression with minimal performance loss, suitable for edge deployment.
-
-🔗 [Notebook: part3-submission_ElliotBu.ipynb](part3-submission_ElliotBu.ipynb)  
-📄 [IEEE Report: Improving Image Classification with Knowledge Distillation](IEEE%20Report%20Elliot%20Bu.pdf)
 
 ---
 
