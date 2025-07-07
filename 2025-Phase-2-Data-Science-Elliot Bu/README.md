@@ -78,7 +78,7 @@ Part2/
 Part3/
 └── part3-submission_ElliotBu.ipynb
 └── IEEE Report Elliot Bu.pdf
-submission.csv
+└── submission.csv
 README.md
 ```
 
