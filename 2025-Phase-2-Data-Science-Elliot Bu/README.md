@@ -14,7 +14,7 @@ In Part 1, I conducted exploratory data analysis and preprocessing on a store sa
   - Sales distribution was skewed with negative profits in some entries.
   - Discounts had a moderate negative correlation with profit, while sales and profit showed a weak positive relationship.
 
-🔗 [Notebook: part1-submission_ElliotBu.ipynb](./Part1/part1-submission_ElliotBu.ipynb)
+🔗 [Notebook: part1-submission_ElliotBu.ipynb](./part1-submission_ElliotBu.ipynb)
 
 ---
 
