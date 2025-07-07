@@ -70,19 +70,17 @@ In Part 3, I implemented **knowledge distillation** to compress deep learning mo
 
 ## 📁 Repository Structure
 
+```
 Part1/
 └── part1-submission_ElliotBu.ipynb
 Part2/
-└── Phase2_PowerBi_ElliotBu.pbix
+└── part2_submission_ElliotBu.ipynb
 Part3/
 └── part3-submission_ElliotBu.ipynb
 └── IEEE Report Elliot Bu.pdf
 submission.csv
 README.md
-
-yaml
-Copy
-Edit
+```
 
 ---
 
@@ -91,11 +89,9 @@ Edit
 This repository consolidates my data science skills in:
 
 1. **Data wrangling and EDA**
-2. **Business intelligence dashboarding**
+2. **Machine Learning Model Development**
 3. **Deep learning model compression for real-world deployment**
-
-For further details on individual components, please refer to each part’s notebook or report.
-
+   
 ---
 
 *Prepared by Elliot Bu, University of Auckland, July 2025.*
