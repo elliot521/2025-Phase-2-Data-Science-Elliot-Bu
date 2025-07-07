@@ -18,7 +18,7 @@ In Part 1, I conducted exploratory data analysis and preprocessing on a store sa
 
 ---
 
-## 📈 Part 2 – Power BI Business Intelligence Dashboard
+## Bonus 📈 Part 1 – Power BI Business Intelligence Dashboard
 
 Part 2 involved designing a Power BI dashboard to communicate business insights effectively:
 
@@ -27,6 +27,25 @@ Part 2 involved designing a Power BI dashboard to communicate business insights 
 - Ensured the dashboard is clear, interactive, and decision-oriented.
 
 🔗 [Power BI File: Phase2_PowerBi_ElliotBu.pbix](./Phase2_PowerBi_ElliotBu.pbix)
+
+---
+
+## 🤖 Part 2 – Machine Learning Model Development
+
+In Part 2, I focused on building and evaluating machine learning models to derive predictive insights from the dataset:
+
+- **Data preprocessing**:
+  - Cleaned and prepared data by handling missing values, encoding categorical features, and scaling numerical variables.
+- **Model training and evaluation**:
+  - Trained multiple models, including Random Forests and Gradient Boosting Machines.
+  - Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
+- **Feature importance analysis**:
+  - Identified key drivers of the target variable to inform business decisions.
+- **Key outcomes**:
+  - Developed an optimized predictive model with strong generalization performance.
+  - Provided interpretations of model outputs to support practical deployment.
+
+🔗 [Notebook: part2_submission_ElliotBu.ipynb](./part2_submission_ElliotBu.ipynb)
 
 ---
 
